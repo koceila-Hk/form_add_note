@@ -1,6 +1,5 @@
 <?php
-// Récupérer les données du formulaire
-
+// connect to db
 
 $servername = "localhost";
 $username = "root";
