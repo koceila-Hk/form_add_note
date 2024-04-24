@@ -1,6 +1,5 @@
 <?php
 // Récupérer les données du formulaire
-// $nouvelle_tache = $_POST['nouvelle_tache'];
 
 
 $servername = "localhost";
